@@ -77,3 +77,12 @@ Retail-Sales-Analytics/
 Retail Sales Analytics Project
 
 Created as a data analytics portfolio project using Python and Power BI.
+
+
+## 📸 Dashboard Screenshots
+
+### Main Dashboard
+![Retail Sales Dashboard](images/dashboard_overview.png)
+
+### Key Business Insights
+![Key Business Insights](images/business_insights.png)
