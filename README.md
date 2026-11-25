@@ -82,7 +82,7 @@ Created as a data analytics portfolio project using Python and Power BI.
 ## 📸 Dashboard Screenshots
 
 ### Main Dashboard
-![Retail Sales Dashboard](images/dashboard_overview.png)
+![Retail Sales Dashboard](dashboard_overview.png)
 
 ### Key Business Insights
-![Key Business Insights](images/business_insights.png)
+![Key Business Insights](business_insights.png)
